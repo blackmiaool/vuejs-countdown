@@ -1,11 +1,11 @@
 {
-  "name": "vuejs-countdown",
+  "name": "@blackmiaool/vuejs-countdown",
   "version": "0.2.1",
   "description": "A simple countdown timer component for vue js 2.0",
   "main": "dist/vuejs-countdown.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/getanwar/vuejs-countdown.git"
+    "url": "https://github.com/blackmiaool/vuejs-countdown.git"
   },
   "keywords": [
     "Countdown",
